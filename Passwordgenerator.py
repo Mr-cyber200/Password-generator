@@ -1,5 +1,3 @@
-import random
-
 print("************************************************************************\ ") 
 print("@@@@@@@@@@@@@@@@@@@@ copyright of Mr_Cyber 2023 @@@@@@@@@@@@@@@@@@@@@@@@/") 
 print("************************************************************************\ ") 
@@ -16,6 +14,8 @@ print("@@@@@@@@@@@@@ github link = https://github.com/Mr-cyber200 @@@@@@@@@@@@@"
 print("LinkendIn link = https://www.linkedin.com/in/nwarienne-michael-378b5a183") 
 print("************************************************************************")
 print("--------------------------------------------------")
+
+import random
 
 combination = "ABCFEFGHIJKLMNOPQRSTUVWXYZ<)@)@~!%&*+)_$1234567890abcdefghijkl"
 
